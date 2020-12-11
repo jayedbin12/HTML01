@@ -1,0 +1,63 @@
+<html>
+<head>
+ <title>Article</title>
+</head>
+<body> 
+ <b>Hey,My name is Jayed.</b><br>
+ <p>I'm 20 years old and I want to be economically independent</p><br>
+ <strong> Currently I'm learing Web development so that I can earn money through fiverr doing freelancing work.</strong><br>
+ <u>I'm hoping to become one of the most earing freelancer in my country.</u><br>
+ <i>If I earn enough money I want to open a IT company working for the benefit of the country</i><br>
+ <em>Mostly I'm learning because I want to develop my skills as I'm a student of Computer Engineering.</em><br>
+ <del>I'm trying my best and working hard as my University class is also going on.</del><br>
+ 
+ <!-- <table width="50%" border="5px">
+	<tr align="center">
+		<th>Name</th>
+		<th>ID</th>
+		<th>Subject</th>
+		<th>Result</th>
+	</tr>
+	<tr>
+	    <td>Jayed</td>
+	    <td>19-39523-1</td>
+	    <td>CSE</td>
+	    <td rowspan="4" align="center">3.63</td>
+	</tr>
+	<tr>
+		<td>x</td>
+	    <td>19-39523-5</td>
+	    <td>CSE</td>
+	</tr>
+	<tr>
+	    <td>Y</td>
+	    <td>19-39525-1</td>
+	    <td>CSE</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">END</td>
+    </tr>
+</table><br>    		
+ 
+	    
+<iframe width="50%" height="500" src="https://www.youtube.com/embed/jSCA6qr_fNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+-->
+
+<br>
+<h1>Freelancing is beneficial for all the youth</h1><br>
+<h2>As freelancing helps one to become economically independent and helps one to earn from forgein countries.</h2><br>
+<h3>It also helps the economy of our country.</h3><br>
+<h4>At the end of the day we all need money to survive.</h4><br>
+<h5>Earning money will help my family too as I am from a middle class family.</h5><br>
+<h6>And lastly learning never goes to waste.</h6><br>
+<pre>I am currently learning HTML language.</pre><br>
+<abbr title="Computer Science & Engineering">CSE</abbr><br>
+<a href="https://youtube.com">Click here to go to Youtube for knowing about WEB DEVELOPMENT</a><br>
+<a href="mailto:jayedbinislam12@gmail.com">Click here to send mail</a><br>
+<a href="Class01.html">Click here for local file and youtube</a><br>
+<a href="Second/Third/Experiment02.html">click here for Github</a><br>
+<a href="Second/Third/netflix.JPG">click here for image</a><br>
+<a href="Second/Experiment.html">click here for Facebook</a><br>
+<img src="Second/Third/netflix.JPG" alt="netflix fail" height="50%" width="350px">
+</body>
+</html>
